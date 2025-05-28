@@ -1,43 +1,44 @@
-<p align="center">
-  <img src="./江西财经大学-logo.svg" width="300">
-</p>
+[![jxufe](assets/江西财经大学相关元素/江西财经大学-logo.svg)](https://www.jxufe.edu.cn/)
 
-<h1 style="text-align: center;">
-    江西财经大学<br>
-    硕士学位论文word模板
-</h1>
+# 江西财经大学硕士毕业论文Word模板
 
-为酱菜学子提供方便好用的word模板
+为酱菜学子提供方便好用的硕士毕业论文Word模板
 
 ## 项目概述​
 
-<!-- ​介绍模板项目旨在为江西财经大学硕士学位论文撰写提供标准化、便捷的 Word 模板。​
-强调模板符合学校论文格式规范要求，节省学生排版时间精力。​ -->
+- 本项目为[江西财经大学硕士毕业论文全流程](https://github.com/MaxforCherubim/Jxufe-master-thesis-process)的子项目
+- 项目起初源于一稿乃止相关Word工作流，使用的是Word工具
+- 本项目在[Github](https://github.com/MaxforCherubim/Jxufe-master-thesis-Word-template)和[Gitee](https://gitee.com/maxforcherubim/Jxufe-master-thesis-Word-template)上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
 
-## 论文结构及其格式要求​
+> Word本质上是一款排版工具
+
+    1. Word和LaTeX、Tpyst一样都是用来排版撰写高质量文档的
+    2. Word的使用门槛相对较低，所见即所得，不是像LateX或Typst那样写代码进行排版的
+        也因此Word常出现莫名其妙的排版问题，难以分析找到原因
 
 ## 使用方法​
 
-<!-- 指导如何下载模板文件（提供清晰下载路径说明）。
-分步讲解在 Word 软件中打开模板及开始撰写论文的操作。​
-举例说明如何根据自身内容修改标题、替换文本、插入图表等。​ -->
+- 不像其他模版需要git clone整个项目，本项目其实只需要单独下载模版docx文件即可开箱启用
 
 ## 注意事项​
 
-<!-- 提醒用户注意学校格式要求可能存在更新，需及时核对。​
-说明模板部分样式若需微调的注意要点及操作方法。​
-告知在使用过程中可能遇到的问题及初步解决思路。​ -->
+1. 最好学习一下Word的使用方法，了解基本的样式操作，而不是简单重复地使用格式刷来刷自己的论文
+2. WPS可以打开模版文件，但是不能编辑使用，因为会出现不兼容问题（大概率），请WPS使用者对照模版自行修改
+3. 如果使用过程中产生了疑问，请在[讨论区](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Revealjs-template/discussions)创建相关讨论，我都会尽力解答的
+4. Word模版如果有Bug，或者有更高的排版方法请在Github上提交[issues](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Revealjs-template/issues)，我会及时修复或更新
+5. 校方可能会更新Word模版，如果与本项目Word模版出入过大，请及时反馈，或提交PR
 
 ## 贡献指南​
 
-<!-- 鼓励用户对模板提出改进建议、报告格式错误或不规范处。​
-说明贡献方式，如提交 Pull Request、在 Issues 中反馈等。​
-对贡献者表示感谢并提及贡献会带来的积极影响。​ -->
+- 本项目强烈呼吁各位使用者即各位学弟学妹提交反馈，包括但不限于在使用过程中遇到的问题、想到的建议，甚至是小白问题都可以在讨论区创建讨论，我会及时参与讨论的！**我们的所有互动都会成为后来者的学习资料，请积极参加！**
+- 如果对本项目感兴趣，甚至想要进一步开发，欢迎提交PR！
 
 ## 联系方式​
 
-<!-- 留下模板维护者或项目发起人的邮箱等联系方式，方便交流。​ -->
+- 本项目作者是章迎潭，本科17级经济统计1班，硕士23级应用统计2班
+- 导师为数理统计系马海强教授
+- 邮件：<EMAIL><bay237580157@outlook.com>
 
 ## 许可证信息​
 
-<!-- 说明模板所采用的开源许可证类型及相关权益规定。 -->
+本项目开源许可证为[MIT license](https://opensource.org/license/mit/)
