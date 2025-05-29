@@ -20,6 +20,8 @@
 
 - 不像其他模版需要git clone整个项目，本项目其实只需要单独下载模版docx文件即可开箱启用，当然你也可以直接git clone
 
+[![下载模版docx文件](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "下载模版docx文件")](https://raw.githubusercontent.com/MaxforCherubim/Jxufe-master-thesis-Word-template/main/%E6%B1%9F%E8%A5%BF%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87word%E6%A8%A1%E6%9D%BF.docx)
+
 ## 注意事项​
 
 1. 最好学习一下Word的使用方法，了解基本的样式操作，而不是简单重复地使用格式刷来刷自己的论文
