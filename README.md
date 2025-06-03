@@ -2,7 +2,7 @@
 
 # 江西财经大学硕士毕业论文Word模板
 
-![GitHub License](https://img.shields.io/github/license/MaxforCherubim/Jxufe-master-thesis-Word-template)
+![GitHub License](https://custom-icon-badges.demolab.com/github/license/MaxforCherubim/Jxufe-master-thesis-Word-template?logo=law)
 
 为酱菜学子提供方便好用的硕士毕业论文Word模板
 
@@ -42,7 +42,7 @@
 - 送审时，（外审和万五审）使用**匿名封面**导出的pdf，替换导师审阅版导出的pdf的封面，再删除独创性声明/使用授权和致谢部分
 - 打印时，打印**无封面打印版**导出的pdf和**A3封皮**导出的pdf，再胶装
 
-[![下载模版docx文件](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "下载模版docx文件")](https://raw.githubusercontent.com/MaxforCherubim/Jxufe-master-thesis-Word-template/main/%E6%B1%9F%E8%A5%BF%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87word%E6%A8%A1%E6%9D%BF.docx)
+![](https://custom-icon-badges.demolab.com/badge/下载导师审阅版-blue?style=for-the-badge&logo=download "文本测试")
 
 ## 注意事项​
 
@@ -61,7 +61,7 @@
 
 - 作者：[章迎潭](https://github.com/MaxforCherubim)
 - 导师：[马海强教授](https://stat.jxufe.edu.cn/news-show-7166.html)
-- 邮件：<EMAIL><bay237580157@outlook.com>
+- 邮件：<EMAIL>bay237580157@outlook.com</EMAIL>
 
 ## 许可证信息​
 
