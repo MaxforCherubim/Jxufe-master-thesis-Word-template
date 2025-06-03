@@ -21,7 +21,7 @@
 - 项目源于一稿和相关Word工作流，使用的是Word工具
 - 本项目在[Github](https://github.com/MaxforCherubim/Jxufe-master-thesis-Word-template)和[Gitee](https://gitee.com/maxforcherubim/Jxufe-master-thesis-Word-template)上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
 
-[!TIP]
+> [!TIP]
 > Word本质上是一款排版工具
     1. Word和LaTeX、Tpyst一样都是用来排版撰写高质量文档的
     2. Word的使用门槛相对较低，所见即所得，不是像LateX或Typst那样写代码进行排版的，也因此Word常出现莫名其妙的排版问题，难以分析找到原因
