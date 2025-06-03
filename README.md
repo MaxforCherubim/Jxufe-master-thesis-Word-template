@@ -2,9 +2,9 @@
 
 # 江西财经大学硕士毕业论文Word模板
 
-为酱菜学子提供方便好用的硕士毕业论文Word模板![GitHub License](https://img.shields.io/github/license/MaxforCherubim/Jxufe-master-thesis-Word-template)
+![GitHub License](https://img.shields.io/github/license/MaxforCherubim/Jxufe-master-thesis-Word-template)
 
-为酱菜学子提供方便好用的硕士毕业论文Typst模板
+为酱菜学子提供方便好用的硕士毕业论文Word模板
 
 ## 目录
 
@@ -18,14 +18,19 @@
 ## 项目概述​
 
 - 本项目为[江西财经大学硕士毕业论文全流程](https://github.com/MaxforCherubim/Jxufe-master-thesis-process)的子项目
-- 项目起初源于一稿乃止相关Word工作流，使用的是Word工具
+- 项目源于一稿和相关Word工作流，使用的是Word工具
 - 本项目在[Github](https://github.com/MaxforCherubim/Jxufe-master-thesis-Word-template)和[Gitee](https://gitee.com/maxforcherubim/Jxufe-master-thesis-Word-template)上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
 
+[!TIP]
 > Word本质上是一款排版工具
-
     1. Word和LaTeX、Tpyst一样都是用来排版撰写高质量文档的
-    2. Word的使用门槛相对较低，所见即所得，不是像LateX或Typst那样写代码进行排版的
-        也因此Word常出现莫名其妙的排版问题，难以分析找到原因
+    2. Word的使用门槛相对较低，所见即所得，不是像LateX或Typst那样写代码进行排版的，也因此Word常出现莫名其妙的排版问题，难以分析找到原因
+
+- 整个论文流程涉及到的word模版有四个：
+    1. 导师审阅版
+    2. 送审匿名版
+    3. 无封面打印版
+    4. A3封皮
 
 ## 使用方法​
 
