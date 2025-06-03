@@ -17,7 +17,7 @@
 
 ## 项目概述​
 
-- 本项目为[江西财经大学硕士毕业论文全流程](https://github.com/MaxforCherubim/Jxufe-master-thesis-process)的子项目
+- 本项目为[江西财经大学硕士毕业论文全流程]的子项目
 - 项目源于一稿和相关Word工作流，使用的是Word工具
 - 本项目在[Github]和[Gitee]上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
 
@@ -48,8 +48,8 @@
 
 1. 最好学习一下Word的使用方法，了解基本的样式操作，而不是简单重复地使用格式刷来调整格式
 2. WPS可以打开模版文件，但是不能编辑使用，因为会出现不兼容问题（大概率），请WPS使用者对照模版自行修改
-3. 如果在使用过程中产生了疑问，请在[讨论区](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Revealjs-template/discussions)创建相关讨论，我都会尽力解答的
-4. Word模版如果有Bug，或者有更好的排版方法请在Github上提交[issues](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Revealjs-template/issues)，我会及时修复或更新
+3. 如果在使用过程中产生了疑问，请在[讨论区]创建相关讨论，我都会尽力解答的
+4. Word模版如果有Bug，或者有更好的排版方法请在Github上提交[issues]，我会及时修复或更新
 5. 校方可能会更新Word模版，如果与本项目Word模版出入过大，请及时反馈issues，或提交PR
 
 ## 贡献指南​
@@ -67,7 +67,13 @@
 
 本项目开源许可证为[MIT license](https://opensource.org/license/mit/)
 
+[回到顶部](#目录)
+
+<!-- 引用链接 -->
+[江西财经大学硕士毕业论文全流程]: https://github.com/MaxforCherubim/Jxufe-master-thesis-process
 [Github]: https://github.com/MaxforCherubim/Jxufe-master-thesis-Word-template
 [Gitee]: https://gitee.com/maxforcherubim/Jxufe-master-thesis-Word-template
-
-[回到顶部](#目录)
+[讨论区]: https://github.com/MaxforCherubim/Jxufe-thesis-defence-Revealjs-template/discussions
+[issues]: https://github.com/MaxforCherubim/Jxufe-thesis-defence-Revealjs-template/issues
+[章迎潭]: https://github.com/MaxforCherubim
+[马海强教授]: https://stat.jxufe.edu.cn/news-show-7166.html
