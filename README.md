@@ -19,7 +19,7 @@
 
 - 本项目为[江西财经大学硕士毕业论文全流程](https://github.com/MaxforCherubim/Jxufe-master-thesis-process)的子项目
 - 项目源于一稿和相关Word工作流，使用的是Word工具
-- 本项目在[Github][]和[Gitee](https://gitee.com/maxforcherubim/Jxufe-master-thesis-Word-template)上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
+- 本项目在[Github]和[Gitee]上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
 
 > [!TIP]
 > Word本质上是一款排版工具
@@ -68,5 +68,6 @@
 本项目开源许可证为[MIT license](https://opensource.org/license/mit/)
 
 [Github]: https://github.com/MaxforCherubim/Jxufe-master-thesis-Word-template
+[Gitee]: https://gitee.com/maxforcherubim/Jxufe-master-thesis-Word-template
 
 [回到顶部](#目录)
