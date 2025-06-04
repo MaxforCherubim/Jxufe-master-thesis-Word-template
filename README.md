@@ -42,7 +42,7 @@
 - 送审时，（外审和万五审）使用**匿名封面**导出的pdf，替换导师审阅版导出的pdf的封面，再删除独创性声明/使用授权和致谢部分
 - 打印时，打印**无封面打印版**导出的pdf和**A3封皮**导出的pdf，再胶装
 
-![](https://custom-icon-badges.demolab.com/badge/下载导师审阅版-blue?style=for-the-badge&logo=download "文本测试") ![](https://custom-icon-badges.demolab.com/badge/下载匿名封面-blue?style=for-the-badge&logo=download "文本测试")
+![](https://custom-icon-badges.demolab.com/badge/下载导师审阅版-blue?style=for-the-badge&logo=download "文本测试") ![](https://custom-icon-badges.demolab.com/badge/下载匿名封面-blue?style=for-the-badge&logo=download "文本测试") ![](https://custom-icon-badges.demolab.com/badge/下载无封面打印版-blue?style=for-the-badge&logo=download "文本测试") ![](https://custom-icon-badges.demolab.com/badge/下载A3封皮-blue?style=for-the-badge&logo=download "文本测试")
 
 ## 注意事项​
 
